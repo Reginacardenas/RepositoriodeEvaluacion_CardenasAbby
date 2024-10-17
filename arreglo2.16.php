@@ -7,11 +7,11 @@
 
 <?php
 $empleados = [
-    ["nombre" => "Juan", "sueldo" => 3000],
+    ["nombre" => "Jorge", "sueldo" => 3000],
     ["nombre" => "Ana", "sueldo" => 2500],
     ["nombre" => "Luis", "sueldo" => 4000],
-    ["nombre" => "Marta", "sueldo" => 3500],
-    ["nombre" => "Pedro", "sueldo" => 2000],
+    ["nombre" => "Armando", "sueldo" => 3500],
+    ["nombre" => "Ricardo", "sueldo" => 2000],
 ];
 
 
